@@ -10,13 +10,12 @@ namespace ODDEVENSORT
     {
         static void Main(string[] args)
         {
-            int[] array = new int[10] { 10, 9, 8, 7, 6, 5, 4, 3, 2, 1 };
+            int[] array = OddEvenSort.RandomNumberGenerate();
+            Console.WriteLine("Array Before Sorting: ");
+            OddEvenSort.PrintArray(array);
             OddEvenSort.OESort(array);
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                Console.WriteLine(array[i]);
-            }
+            Console.WriteLine("Array After Sorting: ");
+            OddEvenSort.PrintArray(array);
         }
     }
 }

@@ -8,6 +8,21 @@ namespace ODDEVENSORT
 {
     class OddEvenSort
     {
+        public static int[] RandomNumberGenerate()
+        {
+            int size; 
+            Console.Write("Enter the size of the array: ");
+            size = int.Parse(Console.ReadLine()); 
+            int[] array = new int[size]; 
+
+            Random ran = new Random(); 
+            for (int i = 0; i < size; i++)
+            {
+                array[i] = ran.Next(1,1000); //generating random numbers at each index of the array
+            }
+
+            return array;
+        }
         public static int[] OESort(int[] array)
         {
             bool sorted = false; //sorted is equals to false to make the while loop run for the first iteration
@@ -39,6 +54,15 @@ namespace ODDEVENSORT
                 }
             }
             return array;
+        }
+
+        public static void PrintArray(int[] array) //function for printing the array
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                Console.Write(array[i] + " ");
+            }
+            Console.WriteLine();
         }
     }
 }
