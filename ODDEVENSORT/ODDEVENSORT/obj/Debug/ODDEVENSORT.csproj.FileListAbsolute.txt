@@ -4,3 +4,9 @@ E:\University Stuff\3rd Semester\Data Structures\Odd Even Sort Project\ODDEVENSO
 E:\University Stuff\3rd Semester\Data Structures\Odd Even Sort Project\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.csprojResolveAssemblyReference.cache
 E:\University Stuff\3rd Semester\Data Structures\Odd Even Sort Project\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.exe
 E:\University Stuff\3rd Semester\Data Structures\Odd Even Sort Project\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.pdb
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\bin\Debug\ODDEVENSORT.exe.config
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\bin\Debug\ODDEVENSORT.exe
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\bin\Debug\ODDEVENSORT.pdb
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.csprojResolveAssemblyReference.cache
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.exe
+E:\New folder\OddEvenSort-master\ODDEVENSORT\ODDEVENSORT\obj\Debug\ODDEVENSORT.pdb
